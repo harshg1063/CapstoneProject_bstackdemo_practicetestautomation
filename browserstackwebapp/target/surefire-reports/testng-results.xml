@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-31T00:49:41 IST" name="BrowserStack WebApp testcases" finished-at="2025-10-31T00:50:39 IST" duration-ms="58722">
+    <groups>
+    </groups>
+    <test started-at="2025-10-31T00:49:41 IST" name="Login Test" finished-at="2025-10-31T00:50:11 IST" duration-ms="30240">
+      <class name="browserstackwebapp.TestCase1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:browserstackwebapp.TestCase1@67a20f67]" started-at="2025-10-31T00:49:41 IST" name="setUp" finished-at="2025-10-31T00:50:02 IST" duration-ms="21311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:browserstackwebapp.TestCase1@67a20f67]" started-at="2025-10-31T00:50:02 IST" name="loginTest" finished-at="2025-10-31T00:50:09 IST" duration-ms="7312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:browserstackwebapp.TestCase1@67a20f67]" started-at="2025-10-31T00:50:09 IST" name="tearDown" finished-at="2025-10-31T00:50:11 IST" duration-ms="1557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- browserstackwebapp.TestCase1 -->
+    </test> <!-- Login Test -->
+    <test started-at="2025-10-31T00:50:11 IST" name="Logout Test" finished-at="2025-10-31T00:50:39 IST" duration-ms="28454">
+      <class name="browserstackwebapp.TestCase2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:browserstackwebapp.TestCase2@32eff876]" started-at="2025-10-31T00:50:11 IST" name="setUp" finished-at="2025-10-31T00:50:29 IST" duration-ms="18286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="logoutTest()[pri:0, instance:browserstackwebapp.TestCase2@32eff876]" started-at="2025-10-31T00:50:29 IST" name="logoutTest" finished-at="2025-10-31T00:50:38 IST" duration-ms="8494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:browserstackwebapp.TestCase2@32eff876]" started-at="2025-10-31T00:50:38 IST" name="tearDown" finished-at="2025-10-31T00:50:39 IST" duration-ms="1672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- browserstackwebapp.TestCase2 -->
+    </test> <!-- Logout Test -->
+  </suite> <!-- BrowserStack WebApp testcases -->
+</testng-results>
