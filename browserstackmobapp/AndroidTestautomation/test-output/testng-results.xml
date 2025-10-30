@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-30T17:56:52 IST" name="Default suite" finished-at="2025-10-30T17:57:47 IST" duration-ms="54960">
+    <groups>
+    </groups>
+    <test started-at="2025-10-30T17:56:52 IST" name="Default test" finished-at="2025-10-30T17:57:47 IST" duration-ms="54960">
+      <class name="com.browserstack.tests.VendorFilterAppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.browserstack.tests.VendorFilterAppTest@5fdcaa40]" started-at="2025-10-30T17:56:52 IST" name="setUp" finished-at="2025-10-30T17:57:11 IST" duration-ms="19266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginAddToCartLogout()[pri:0, instance:com.browserstack.tests.VendorFilterAppTest@5fdcaa40]" started-at="2025-10-30T17:57:11 IST" name="loginAddToCartLogout" finished-at="2025-10-30T17:57:45 IST" duration-ms="33607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAddToCartLogout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.browserstack.tests.VendorFilterAppTest@5fdcaa40]" started-at="2025-10-30T17:57:45 IST" name="tearDown" finished-at="2025-10-30T17:57:47 IST" duration-ms="1886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.browserstack.tests.VendorFilterAppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

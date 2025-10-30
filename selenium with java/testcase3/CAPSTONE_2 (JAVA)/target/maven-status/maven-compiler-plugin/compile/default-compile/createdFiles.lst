@@ -1,0 +1,6 @@
+pages\BasePage.class
+pages\FavouritesPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+pages\VendorFilterPage.class

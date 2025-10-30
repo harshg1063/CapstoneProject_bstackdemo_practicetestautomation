@@ -1,0 +1,4 @@
+com\browserstack\tests\package-info.class
+com\browserstack\tests\SampleApp_NativeExample.class
+com\browserstack\tests\WikipediaTest.class
+com\browserstack\tests\VendorFilterAppTest.class
